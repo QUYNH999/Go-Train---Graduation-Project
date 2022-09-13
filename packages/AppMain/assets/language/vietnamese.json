@@ -1,0 +1,15 @@
+{
+  "translation": {
+    "logout": "Đăng xuất",
+    "changePassword": "Đổi Mật khẩu",
+    "newPasswordTitle" : "Mật khẩu mới",
+    "confirmTitle": "Xác nhận",
+    "confirmPlaceHolder": "Xác nhận mật khẩu mới",
+    "setNewPassword": "Lưu Mật khẩu",
+    "notMatchingPasswords": "Mật khẩu không khớp",
+    "headerTitle": "Cài đặt",
+    "home": "Trang chủ",
+    "notification": "Thông báo",
+    "profile": "Cá nhân"
+  }
+}

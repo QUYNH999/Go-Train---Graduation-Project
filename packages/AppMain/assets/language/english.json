@@ -1,0 +1,15 @@
+{
+  "translation": {
+    "logout": "Logout",
+    "changePassword": "Change Password",
+    "newPasswordTitle": "New Password",
+    "confirmTitle": "Confirm",
+    "confirmPlaceHolder": "Confirm new password",
+    "setNewPassword": "Set New Password",
+    "notMatchingPasswords": "Not matching passwords",
+    "headerTitle": "Setting",
+    "home": "Home",
+    "notification": "Notification",
+    "profile": "Profile"
+  }
+}
